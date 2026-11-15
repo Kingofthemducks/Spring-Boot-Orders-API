@@ -100,9 +100,3 @@ A projekt elkészítése során az alábbi területeken szereztem tapasztalatot:
 - Kivételkezelés és megfelelő HTTP-státuszkódok visszaadása.
 - Frontend és backend összekapcsolása JavaScript és Fetch API segítségével.
 - API-funkciók tesztelése HTTP-kéréseken keresztül.
-
-## A projekt háttere
-
-Az alkalmazás eredetileg egy egyetemi tantárgy keretében készült. A Spring Boot backend és a hozzá tartozó Java osztályok a tantárgyi projekt részeként készültek el.
-
-A repozitóriumban található HTML-alapú tesztelőfelület az eredeti felület lecserélésével készült, a projekt használhatóságának és megjelenésének javítása érdekében.
