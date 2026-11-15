@@ -8,6 +8,8 @@ The application provides endpoints for retrieving, creating, updating, deleting 
 
 The project also includes a custom HTML interface for sending HTTP requests and viewing API responses.
 
+<img src="./screenshots/Web%20interface.png" width="500">
+
 ## Technologies Used
 
 - Java
