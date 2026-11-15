@@ -100,9 +100,3 @@ Through this project, I gained experience with:
 - Handling exceptions and returning appropriate HTTP status codes.
 - Connecting a frontend interface to a backend API using JavaScript and Fetch.
 - Testing API functionality through HTTP requests.
-
-## Project Background
-
-This application was originally developed as part of a university module. The Spring Boot backend and its associated Java classes were developed for the coursework.
-
-The HTML testing interface included in this repository is a replacement interface created to improve the usability and presentation of the project.
